@@ -182,7 +182,7 @@ public class FrmConverter extends JFrame {
 		buttonGroup.add(rdbtnHexadecimal);
 		buttonGroup.add(rdbtnDecimal);
 		buttonGroup.add(rdbtnBinary);
-		
+		 
 		JLabel lblHexadecimal = new JLabel("Hexadecimal:");
 		lblHexadecimal.setFont(new Font("Calibri", Font.ITALIC, 13));
 		GridBagConstraints gbc_lblHexadecimal = new GridBagConstraints();
